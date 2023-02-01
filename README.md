@@ -25,6 +25,7 @@ First user need to register into system after register is done user should login
 * Clone the project on local
 * Run npm install command in root folder
 * Open commant prompt in any location and run following commands
+* For linux os open Cmd on root folder and run node commands.js instead of "atm" which mentioned in below
 
 ### Executing program
 
