@@ -24,6 +24,7 @@ First user need to register into system after register is done user should login
 
 * Clone the project on local
 * Run npm install command in root folder
+* Open commant prompt in any location and run following commands
 
 ### Executing program
 
