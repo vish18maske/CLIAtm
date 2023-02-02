@@ -32,38 +32,38 @@ First user need to register into system after register is done user should login
 * Create new user
 
 ```
-atm add or atm a
+atm add or atm a or node commands.js add
 input name,username,password
 ```
 
 * Login user
 
 ```
-atm login username or atm l username
+atm login username or atm l username or node commands.js login username
 input username
 ```
 * Logout user
 
 ```
-atm logout username or atm lg username
+atm logout username or atm lg username or node commands.js logout username
 input username
 ```
 * Deposit Amount
 
 ```
-atm deposit amount or atm w amount
+atm deposit amount or atm d amount or node commands.js deposit amount
 input amount (should be number)
 ```
 * Withdraw Amount
 
 ```
-atm withdraw amount or atm w amount
+atm withdraw amount or atm w amount or node commands.js withdraw amount
 input amount (should be number)
 ```
 * Transfer Amount
 
 ```
-atm transfer username payeename amount or atm t username payeename amount
+atm transfer username payeename amount or atm t username payeename amount or node commands.js transfer username payeename amount
 input username payeename amount
 ```
 
