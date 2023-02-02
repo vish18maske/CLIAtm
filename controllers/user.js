@@ -13,6 +13,7 @@ module.exports={
             let reqData=req
            
             let validateData=await validator.validate(reqData,"addUserSchema");
+            console.log("validateData",validateData)
           
             if(validateData){
                 let addUser=await userProvider.add(reqData);
