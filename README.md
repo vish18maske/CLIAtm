@@ -32,7 +32,7 @@ First user need to register into system after register is done user should login
 * Create new user
 
 ```
-atm add or add a
+atm add or atm a
 input name,username,password
 ```
 
@@ -45,7 +45,7 @@ input username
 * Logout user
 
 ```
-atm logout username or atm lg amount
+atm logout username or atm lg username
 input username
 ```
 * Deposit Amount
